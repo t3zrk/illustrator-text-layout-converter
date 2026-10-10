@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="800" viewBox="0 0 1600 800" role="img" aria-labelledby="title desc">
+  <title id="title">Illustrator Text Layout Converter</title>
+  <desc id="desc">Portfolio hero for an Adobe Illustrator text layout automation utility.</desc>
+  <rect width="1600" height="800" fill="#F7F4EE"/>
+  <circle cx="1510" cy="65" r="250" fill="#EFE5D3"/>
+  <circle cx="30" cy="820" r="260" fill="#F1EBE2"/>
+
+  <rect x="110" y="105" width="95" height="95" rx="24" fill="#1D1B19"/>
+  <text x="157.5" y="171" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" fill="#E8A656">T</text>
+
+  <text x="110" y="320" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" fill="#181719">Illustrator Text</text>
+  <text x="110" y="405" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" fill="#181719">Layout Converter</text>
+  <text x="112" y="485" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#65615C">Restructure production copy without rebuilding text frames.</text>
+
+  <line x1="112" y1="545" x2="195" y2="545" stroke="#CE914A" stroke-width="2"/>
+  <text x="112" y="595" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#815E34">EXTENDSCRIPT  /  SCRIPTUI  /  DESIGN AUTOMATION</text>
+  <text x="112" y="710" font-family="Courier New, monospace" font-size="17" fill="#706B65">github.com/t3zrk/illustrator-text-layout-converter</text>
+
+  <rect x="930" y="110" width="560" height="580" rx="34" fill="#FFFDF9" stroke="#E9E2D9" stroke-width="2"/>
+  <text x="980" y="190" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#1E1D1E">Text layout</text>
+  <text x="980" y="230" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#7F7A74">Choose a conversion mode</text>
+
+  <rect x="980" y="270" width="460" height="62" rx="18" fill="#F5EDE2" stroke="#D9A669" stroke-width="2"/>
+  <circle cx="1015" cy="301" r="11" fill="none" stroke="#9D6F3E" stroke-width="2"/>
+  <circle cx="1015" cy="301" r="5" fill="#9D6F3E"/>
+  <text x="1050" y="310" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#2A2827">Column → Row</text>
+
+  <rect x="980" y="352" width="460" height="62" rx="18" fill="#F9F7F3" stroke="#E9E5DF" stroke-width="2"/>
+  <circle cx="1015" cy="383" r="11" fill="none" stroke="#9D6F3E" stroke-width="2"/>
+  <text x="1050" y="392" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#2A2827">Row → Column</text>
+
+  <rect x="980" y="434" width="460" height="62" rx="18" fill="#F9F7F3" stroke="#E9E5DF" stroke-width="2"/>
+  <circle cx="1015" cy="465" r="11" fill="none" stroke="#9D6F3E" stroke-width="2"/>
+  <text x="1050" y="474" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#2A2827">Reflow into N balanced rows</text>
+
+  <rect x="980" y="550" width="460" height="85" rx="20" fill="#FCEFDB"/>
+  <text x="1008" y="580" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#A46C2D">PREVIEW</text>
+  <text x="1110" y="580" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#48423C">12 items  •  3 rows  •  balanced</text>
+</svg>
