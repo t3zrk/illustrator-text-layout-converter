@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/hero.png" alt="Illustrator Text Layout Converter" width="100%" />
+  <img src="docs/hero.svg" alt="Illustrator Text Layout Converter" width="100%" />
 </p>
 
 # Illustrator Text Layout Converter
@@ -65,7 +65,7 @@ illustrator-text-layout-converter/
 ├─ archive/
 │  └─ Column To Row v1.jsx
 ├─ docs/
-│  ├─ hero.png
+│  ├─ hero.svg
 │  └─ PORTFOLIO.md
 ├─ CHANGELOG.md
 ├─ CONTRIBUTING.md
